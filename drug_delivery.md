@@ -13,3 +13,5 @@ Drug delivery systems are technologies used to deliver drugs effectively in the 
 - Injectable systems
 - Transdermal patches
 - Nanoparticles
+## Targeted delivery
+Targeted delivery focuses on delivering drugs directly to specific tissues such as tumors.
